@@ -1,14 +1,8 @@
-<!-- Animated Header -->
-
 <h1 align="center">Hi 👋, I'm Akalanka Jayawardhane</h1>
 
 <p align="center">
 IT Undergraduate at Rajarata University of Sri Lanka <br>
 Interested in Artificial Intelligence, Web Development, and Mobile Application Development.
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial+Intelligence+Learner;Web+Developer;Mobile+App+Developer;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
 ---
