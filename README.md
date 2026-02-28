@@ -37,11 +37,19 @@ Learning AI • Web Development • Mobile App Development
   <img src="https://komarev.com/ghpvc/?username=AkalankaJayawardhane&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
+---
+
 ## 🔥 Contribution Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkalankaJayawardhane&theme=tokyonight"/>
 </p>
+
+---
+
+## 🔥 Activity
+
+💻 Regularly learning and building projects while improving development and AI skills.
 
 ---
 
