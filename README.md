@@ -31,14 +31,10 @@ Learning AI • Web Development • Mobile App Development
 
 ---
 
-## 📊 GitHub Statistics
+## 👀 Profile Views
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AkalankaJayawardhane&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AkalankaJayawardhane&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=AkalankaJayawardhane&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ## 🔥 Contribution Streak
