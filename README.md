@@ -31,6 +31,14 @@ Learning AI • Web Development • Mobile App Development
 
 ---
 
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkalankaJayawardhane&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
 ## 👀 Profile Views
 
 <p align="center">
