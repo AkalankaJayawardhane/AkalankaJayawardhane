@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Akalanka Jayawardhane</h1>
 
 <p align="center">
-IT Undergraduate • Rajarata University of Sri Lanka <br>
-Learning AI • Web Development • Mobile App Development
+IT Undergraduate at Rajarata University of Sri Lanka <br>
+Interested in Artificial Intelligence, Web Development, and Mobile Application Development.
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ Learning AI • Web Development • Mobile App Development
 
 ## 🛠️ Technologies & Tools
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,js,react,androidstudio,tensorflow,opencv,git,github,vscode"/>
 </p>
 
@@ -42,7 +42,7 @@ Learning AI • Web Development • Mobile App Development
 ## 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkalankaJayawardhane&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=AkalankaJayawardhane&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -58,12 +58,12 @@ Learning AI • Web Development • Mobile App Development
 
 ## 🌱 Currently Learning
 
-Artificial Intelligence • Web Technologies • Mobile Development
+Artificial Intelligence • Web Technologies • Mobile Application Development
 
 ---
 
 ## 📫 Connect With Me
 
-<p>
+<p align="center">
 <a href="https://github.com/AkalankaJayawardhane">GitHub</a>
 </p>
